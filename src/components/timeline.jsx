@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Kara <span>2019-present</span></h2>
+                        <p>Working as a software engineer some things I built were: a custom PSD to SVG file converter using Python and JavaScript in order to extract and parse the PSD data into a JSON object, and a “smart” image-cropping feature which improved the functionality of a key image resizing tool by 50% </p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Moody’s Analytics<span>2018-2019</span></h2>
+                        <p>Not only did I get to code all day everyday, but at Moody's I also got to collaborate with large clients which lead me to develop things such as: the entire backend logic for a large bank's financial rating model, and he capability for all clients to read, split, and merge PDF’s within their applications.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Q.ai <span>2017-2018</span></h2>
+                        <p>I Co-founded a tech-startup focused on an application that served daily restaurant recommendations to 100+ users in real-time using machine learning algorithms and predictive analytics, which allowed us to partner with NYC restaurants in order to help market their businesses.</p> 
                       </div>
                     </div>
                   </article>
